@@ -2,6 +2,10 @@
 
 ## Project Overview
 This project to determine the loan approval based on personal information and loan history that has been done.
+Performing comprehensive EDA on Loan Approval Prediction dataset to understand important variables, handled missing values,
+outliers, and ensembled machine learning models to predict applicant's loan approval. The 
+best model to this project is random forest with ROC/AUC evaluation matrix.
+
 <br><br>
 I will predict whether the loan can be approved or not and compare it to the actual status of the loan.
 
@@ -43,4 +47,8 @@ Using 5 models, this are the results of the evaluation of the matrix:
 | Decision Tree       | 0.81      | 0.77   | 0.79     | 0.72     | 0.68    |
 | Random Forest       | 0.83      | 0.91   | 0.87     | 0.80     | 0.74    |
 
+![credit_history_plot](credit_history_plot.png)
+![loan_amount_plot](loan_amount_plot.png)
+![loan_amount_term_plot](loan_amount_term_plot.png)
+![loan_amount_out](loan_amount_out.png)
 ![ROC Curve](ROC_curve.png)
