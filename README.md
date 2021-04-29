@@ -33,7 +33,7 @@ The data retrieved from Kaggle dataset. The data consist of 614row x 13col
 6. Evaluation
 
 ## Result
-Using 5 modeling, this are the results of the evaluation of the matrix:
+Using 5 models, this are the results of the evaluation of the matrix:
 
 | Model               | Precision | Recall | F1-Score | Accuracy | ROC/AUC |
 |---------------------|-----------|--------|----------|----------|---------|
