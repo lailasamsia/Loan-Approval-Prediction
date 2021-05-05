@@ -3,7 +3,7 @@
 ## Project Overview
 This project to determine the loan approval based on personal information and loan history that has been done.
 Performing comprehensive EDA on Loan Approval Prediction dataset to understand important variables, handled missing values,
-outliers, and ensembled machine learning models to predict applicant's loan approval. The 
+outliers, and apply machine learning models to predict applicant's loan approval. The 
 best model to this project is random forest with ROC/AUC evaluation matrix.
 
 <br><br>
